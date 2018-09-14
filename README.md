@@ -1,4 +1,4 @@
-## Welcome to Mani's GitHub Pages
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ksm45/DSCI_521_Qu5.0.1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
